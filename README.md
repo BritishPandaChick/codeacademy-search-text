@@ -1,11 +1,8 @@
 # Codecademy Search Text for Name
-Search Text for Name project from Codecademy JavaScript section.
+Code for searching for text in a name from Codecademy JavaScript section.
 
-## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from Codecademy. Therefore I will not be accepting any pull requests.
+## Tech Stack
+- JavaScript
 
 ## Acknowledgements
 * Codecademy
